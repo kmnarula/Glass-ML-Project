@@ -1,6 +1,6 @@
 # Glass-Project
 
-Any given project in Machine Learning can be broken down into the following steps: (Also highlighted in Machine Learning Canvas.pdf)
+Any given project in Machine Learning can be broken down into the following steps: (Also highlighted in Machine Learning Canvas.pdf [Courtesy: AltaML])
   1. Problem
   2. Prediction
   3. Business Task
